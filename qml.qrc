@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Head.qml</file>
+        <file>MainMenuBar.qml</file>
+        <file>Forms/LoginForm.qml</file>
+        <file>Forms/Dashboard.qml</file>
+        <file>Forms/Settings.qml</file>
+        <file>Images/baseline-add_circle-24px.svg</file>
+        <file>Images/baseline-search-24px.svg</file>
+        <file>Images/baseline-commute-24px.svg</file>
+        <file>Images/baseline-check-24px.svg</file>
+        <file>Images/baseline-cancel-24px.svg</file>
+        <file>Images/baseline-supervisor_account-24px.svg</file>
+        <file>Images/baseline-settings-20px.svg</file>
+        <file>Images/baseline-block-24px.svg</file>
+        <file>Images/baseline-class-24px.svg</file>
+        <file>Images/baseline-alarm_on-24px.svg</file>
+        <file>Forms/Doc/Orders.qml</file>
+        <file>Forms/Doc/Order_Add.qml</file>
+        <file>Forms/Dir/Vendors.qml</file>
+        <file>Forms/Dir/Vendor_Add.qml</file>
+        <file>Forms/Dir/DeliveryType_ListComponent.qml</file>
+        <file>Forms/Dir/DeliveryType_Add.qml</file>
+        <file>Forms/Dir/DeliveryType.qml</file>
+        <file>Forms/Dir/DateType_ListComponent.qml</file>
+        <file>Forms/Dir/DateType_Add.qml</file>
+        <file>Forms/Dir/DateType.qml</file>
+        <file>Images/baseline-account_circle-24px_blue.svg</file>
+        <file>Images/baseline-account_circle-24px_green.svg</file>
+        <file>Images/baseline-account_circle-24px_red.svg</file>
+        <file>Forms/Dir/Vendor_ListComponent.qml</file>
+        <file>Forms/Dir/ModelFree.qml</file>
+        <file>Forms/Doc/Order_ListComponent.qml</file>
+        <file>Images/baseline-keyboard_arrow_down-24px.svg</file>
+        <file>Images/baseline-keyboard_arrow_up-24px.svg</file>
+        <file>Forms/Doc/Order_ListHeader.qml</file>
+    </qresource>
+</RCC>
